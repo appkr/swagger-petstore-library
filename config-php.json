@@ -1,0 +1,8 @@
+{
+    "variableNamingConvention": "camelCase",
+    "packagePath": "appkr/swagger-petstore-library",
+    "invokerPackage": "Appkr\\PetStore",
+    "modelPackage": "Model",
+    "apiPackage": "Service",
+    "srcBasePath": "src/"
+}
